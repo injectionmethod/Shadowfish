@@ -1,0 +1,7 @@
+C:\Users\Fraser\source\repos\ShadowFish\ShadowFish\bin\Debug\ShadowFish.exe.config
+C:\Users\Fraser\source\repos\ShadowFish\ShadowFish\bin\Debug\ShadowFish.exe
+C:\Users\Fraser\source\repos\ShadowFish\ShadowFish\bin\Debug\ShadowFish.pdb
+C:\Users\Fraser\source\repos\ShadowFish\ShadowFish\obj\Debug\ShadowFish.csprojAssemblyReference.cache
+C:\Users\Fraser\source\repos\ShadowFish\ShadowFish\obj\Debug\ShadowFish.csproj.CoreCompileInputs.cache
+C:\Users\Fraser\source\repos\ShadowFish\ShadowFish\obj\Debug\ShadowFish.exe
+C:\Users\Fraser\source\repos\ShadowFish\ShadowFish\obj\Debug\ShadowFish.pdb
